@@ -1,4 +1,4 @@
-# LR6-USB_linuX_c_example  
+# LR6-USB_linux_c_example  
 
 The outline of the sample program for controlling LR-USB by communication protocol is described.
 
@@ -15,7 +15,7 @@ The purpose of this program is to control Linux in C language without using the 
  
 ## Description
 
-Ethernet Modbus TCP & TCP/IP, POE (DC48V), Alarm, Direct mount, off-white body
+USB2.0, POE (DC48V), Alarm, Direct mount, off-white body
 
 * PC or HMI controlled
 * Open architecture for custom programming (Windows® / Linux)
