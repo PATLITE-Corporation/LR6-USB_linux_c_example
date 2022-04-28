@@ -15,7 +15,7 @@ The purpose of this program is to control Linux in C language without using the 
  
 ## Description
 
-USB2.0, POE (DC48V), Alarm, Direct mount, off-white body
+USB2.0, Alarm, Direct mount, off-white body
 
 * PC or HMI controlled
 * Open architecture for custom programming (Windows® / Linux)
